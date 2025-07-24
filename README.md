@@ -1,5 +1,5 @@
 # Social-Media-Analytics-Backend
-# 📊 Social Media Analytics Backend (SQL Server)
+# 📊 Social Media Analytics Backend
 
 A SQL Server–based backend system designed to analyze user engagement on social media posts, including likes, comments, and post performance rankings.
 
